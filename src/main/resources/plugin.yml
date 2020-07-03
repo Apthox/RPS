@@ -1,0 +1,6 @@
+name: RPS
+version: ${project.version}
+main: hypercubemc.com.rps.RPS
+api-version: 1.13
+commands:
+   RPS:
